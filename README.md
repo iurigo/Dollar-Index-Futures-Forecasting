@@ -37,7 +37,7 @@ Daily returns:
 <li> Total profitable days: 312
 <li> Average profit: 		0.35%
 <li> Max profit: 			2.09%
-   
+<p>
 <li> Total losing days:		298
 <li> Average loss: 		    0.35%
 <li> Max loss:              2.6%
