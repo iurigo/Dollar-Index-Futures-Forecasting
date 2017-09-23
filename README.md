@@ -36,7 +36,8 @@ Trading simulation over 2 years period (2015 - 2017):
 Daily returns:
 <li> Total profitable days: 312
 <li> Average profit: 		0.35%
-<li> Max profit: 			2.09%\ 
+<li> Max profit: 			2.09%
+
 
 <li> Total losing days:		298
 <li> Average loss: 		    0.35%
