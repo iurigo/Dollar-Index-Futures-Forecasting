@@ -25,7 +25,7 @@ Dollar Index is a leading benchmark for the international value of the US dollar
 
 ## Model
 
-Predict tomorrow Dollar Index Futures daily return using daily return from previous periods.
+Using classification models predict next day Dollar Index Futures daily return using daily return from previous periods.
 
 ## Evaluation
 
@@ -33,11 +33,11 @@ Trading simulation over 2 years period (2015 - 2017):
 
 <li> “Buy and sell” strategy return: 8.5%
 
-<li> Daily returns:
-Total profitable days: 	312
-Average profit: 		0.35%
-Max profit: 			2.09%
+Daily returns:
+<li> Total profitable days: 	312
+<li> Average profit: 		0.35%
+<li> Max profit: 			2.09%
 
-Total losing days:		298
-Average loss: 		    0.35%
-Max loss:               2.6%
+<li> Total losing days:		298
+<li> Average loss: 		    0.35%
+<li> Max loss:               2.6%
