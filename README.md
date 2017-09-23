@@ -1,3 +1,5 @@
+![alt text](https://github.com/iurigo/Dollar-Index-Futures-Forecasting/blob/master/Charts/background5.jpg)
+
 # Dollar Index Futures daily returns forecasting
 
 Dollar Index is a leading benchmark for the international value of the US dollar and the world’s most widely recognized traded currency index. It represents the value of the US dollar relative to a basket of world currencies.
