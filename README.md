@@ -26,7 +26,7 @@ Dollar Index is a leading benchmark for the international value of the US dollar
 
 ## Model
 
-Using classification models predict next day Dollar Index Futures daily return using daily return from previous periods.
+Using classification models to predict next day Dollar Index Futures daily return using information from previous periods.
 
 ## Evaluation
 
